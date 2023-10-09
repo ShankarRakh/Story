@@ -1,0 +1,2 @@
+Hello,this is chapter1 text at very begining 
+before creating the git respository
